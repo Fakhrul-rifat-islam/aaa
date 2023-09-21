@@ -1,0 +1,103 @@
+header{
+    padding: 30px;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;;
+}
+.container{
+    padding-bottom: 60px;
+}
+
+
+.logo{width: 50%;float: left;}
+.logo img{
+   ;
+}
+
+nav{
+    width: 50%;
+    float: left;
+    
+}
+
+nav ul{
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline;
+    padding: 14px;
+}
+
+nav ul li a{
+    
+font-size: 26px;
+    
+text-decoration: none;
+    
+color: black;
+}
+h1 {text-align: center;}
+section{}
+div p{
+    text-align: left;
+}
+.study{
+    padding-left: 289px;
+}
+h1 span{
+    color: blue;
+}
+div .h2r{text-align: left;}
+
+.project{
+    width: 50%;
+    float: left;
+}
+.project-left{
+    text-align: right;
+}
+.project-left h2{}
+.project-left p{
+    text-align: right;
+}
+
+.project-right{padding: 22px 0 0 33px;}
+.project-right h2{}
+
+
+.blogs{
+    width: 100%;
+    float: left;
+    display: flex;
+    justify-content: space-evenly;
+    /* width: 100%; */
+    margin: auto;
+    padding: 90px 143px 0 24px;
+    }
+    .blogs img{
+        height: 285px;
+        width: 100%;
+        padding: 100px
+        display: flex;
+    
+    }
+    div .blog-1{
+        padding: 
+    }
+    .blog-1 p{
+        padding: 50px;
+    }
+    .blogs-1{
+        border: 2px solid gold;
+        margin: 100px;
+        padding: 10px;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 17px 3px 8px;
+    }
+    .blogs-1 :hover{
+        box-shadow: rgba(56, 54, 54, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 3px 0px 1opx;
+    }
+    footer .nothing h1{
+        padding: 50px;
+        
+        
+    }
